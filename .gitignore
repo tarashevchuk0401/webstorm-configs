@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Never commit — licenses, tokens, auth, machine state
+*.key
+*.license
+*.token
+user.web.token
+webstorm.key
+plugin_*.license
+
+# IDE runtime state / caches (not portable settings)
+*.db
+.lock
+**/window.state.xml
+**/window.layouts.xml
+**/runner.layout.xml
+**/recentProjects.xml
+**/updates.xml
+**/usage.statistics.xml
+**/dailyLocalStatistics.xml
+**/features.usage.statistics.xml
+**/settingsSync*.xml
+**/trusted-paths.xml
+
+# Credentials-bearing option files
+**/github.xml
+**/gitlab.xml
+**/proxy.settings.xml
+**/databaseSettings.xml
+**/databaseDrivers.xml
+**/GrazieAuthFacade.xml

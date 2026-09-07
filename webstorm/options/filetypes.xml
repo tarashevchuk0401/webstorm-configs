@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="htaccess" type="AUTO_DETECTED" />
+      <mapping pattern="env" type="AUTO_DETECTED" />
+    </extensionMap>
+  </component>
+</application>

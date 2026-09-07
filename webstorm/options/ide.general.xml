@@ -1,0 +1,25 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
+    <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="-1" />
+    <option name="inactiveTimeout" value="3" />
+  </component>
+  <component name="Registry">
+    <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
+    <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
+    <entry key="terminal.new.ui" value="true" source="SYSTEM" />
+    <entry key="llm.rules.refresh.interval" value="10" source="MANAGER" />
+    <entry key="llm.selector.config.refresh.interval" value="10" source="MANAGER" />
+    <entry key="idea.islands.feedback2.enabled" value="false" source="MANAGER" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="PowerSaveMode" value="true" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TypeScriptEngineStatusBarWidget" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
